@@ -5,6 +5,23 @@ Some examples of working hackintosh's.
 
 By using this repository or any code related to it, you agree to the [legal notice](./LEGAL_NOTICE.md). The author is not responsible for any copies, forks, reuploads made by other users, or anything else related to dqryqn/Hackintosh. This is the author's only account and repository. To prevent impersonation or irresponsible actions, please comply with the GNU GPL license this Repository uses.
 
+
+
+## Introducing:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Star History
 
 <a href="https://star-history.com/#dqryqn/Hackintosh&Date">
