@@ -9,6 +9,9 @@ By using this repository or any code related to it, you agree to the [legal noti
 
 ## Introducing:
 
+The basis of this repository is the building of a Hackintosh with newer components. We are relying on data from apple.com and on the experience of other people.
+We also show you the process of building a Hackintosh.
+
 
 
 
