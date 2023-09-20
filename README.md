@@ -1,4 +1,4 @@
-# Hackintosh
+# Hackintosh ()
 Some examples of working hackintosh's.
 
 ![248433934-7886223b-c1d1-4260-82aa-da5741f303bb](https://raw.githubusercontent.com/dqryqn/Hackintosh/main/Pictures/Hackintosh.png)
